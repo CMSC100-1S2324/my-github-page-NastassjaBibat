@@ -16,3 +16,8 @@ Steps on how to create GitHub page:
 
 What are your key takeaways from this exercise?
 - From this exercise, I learned how to create a GitHub page using HTML and CSS. I realized how much work is put into creating webpages and how confusing it can get if you lose focus of the task.
+
+References used:
+https://www.computerhope.com/issues/ch001475.htm#:~:text=In%20your%20HTML%20(hypertext%20markup,href%20attribute%2C%20as%20shown%20below.&text=For%20example%2C%20clicking%20this%20link,the%20top%20of%20the%20page.
+
+https://stackoverflow.com/questions/14676613/how-to-import-google-web-font-in-css-file
